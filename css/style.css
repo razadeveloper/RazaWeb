@@ -1,0 +1,21 @@
+@charset utf-8;
+/*mnRaza*/
+.topbar{background-color: #009999; padding: 10px;}
+.mymenu{
+	margin-top: 10px;
+}
+.mymenu .navbar-default{background: none;border: none;}
+.mymenu .navbar-nav .active a, 
+.mymenu .navbar-nav .active a:hover {background-color: #009999; color: #fff;}
+.mymenu .navbar-nav li a:hover{background-color: #009999; color: #fff;}
+.heading{color: red;
+ text-align: center;
+  border-width: 10px;
+  border-bottom-style: ridge;
+ border-bottom-color: #0099991;
+ font-size: 35px;
+ font-weight: 800; }  
+ .page{
+ 	font-size: 14px;
+ 	margin-top: 30px;
+ }
